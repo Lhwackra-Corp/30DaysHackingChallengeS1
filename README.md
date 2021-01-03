@@ -1,5 +1,5 @@
 # 30DaysHackingChallenge
-30 Days Challenge Writeups
+30 Days Challenge Writeups S1
 
 # Day 1
 
